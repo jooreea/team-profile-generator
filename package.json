@@ -1,0 +1,24 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Generates a profile of a web development team from the command line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jooreea/team-profile-generator.git"
+  },
+  "author": "Jooree Ahn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jooreea/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/jooreea/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2",
+    "inquirer-recursive": "^0.0.7",
+    "jest": "^28.0.1"
+  }
+}
