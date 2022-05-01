@@ -15,3 +15,7 @@ A manager wants to generate a webpage that displays their team's basic info so t
 
 ## Video Tutorial
 https://youtu.be/n1Zoj9gbUOE
+
+## Browser Screenshot
+![team_profile_generator_demo](./dist/screenshot.png)
+
