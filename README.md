@@ -14,3 +14,4 @@ A manager wants to generate a webpage that displays their team's basic info so t
 9. When they decide to finish building their team, then they exit the application, and the HTML is generated.
 
 ## Video Tutorial
+https://youtu.be/n1Zoj9gbUOE
